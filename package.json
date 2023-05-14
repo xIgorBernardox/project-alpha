@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "googleapis": "^118.0.0",
+    "http": "^0.0.1-security",
+    "twilio": "^4.11.0"
+  }
+}
